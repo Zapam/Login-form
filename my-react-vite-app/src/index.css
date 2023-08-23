@@ -4,5 +4,5 @@
 
 body{
   background-color: rgb(253, 121, 121);
-  background-image: url(/home/amirreza/Desktop/Projects/Projects/intro-component-with-signup-form-master/Login-form/Login-form/my-react-vite-app/src/assets/bg-intro-desktop.png);
+  background-image: url(./assets/bg-intro-desktop.png);
 }
