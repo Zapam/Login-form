@@ -1,0 +1,30 @@
+/* Media query for screens with a maximum width of 768px */
+@media (max-width: 768px) {
+  .text {
+    text-align: center;
+  }
+
+  .paragraph {
+    max-width: 80%;
+    margin: 1rem auto;
+    font-size: 90%;
+    font-weight: 500;
+  }
+
+  .heading {
+    font-size: 1.6rem;
+  }
+
+  .title {
+    justify-content: start;
+    margin-top: 20%;
+  }
+
+}
+
+/* Media query for screens with a minimum width of 769px and a maximum width of 1024px */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .text {
+    margin-left: 2rem;
+  }
+}
